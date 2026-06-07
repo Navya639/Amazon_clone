@@ -1,6 +1,6 @@
 # Amazon Clone
 
-A front-end clone of Amazon's homepage built using HTML and CSS. This project was created to practice web development fundamentals, including page structure, layouts, styling, and responsive design.
+A front-end clone of Amazon's homepage built using HTML and CSS. This project was created to practice web development fundamentals, including page structure, layouts, and styling.
 
 ## Features
 
